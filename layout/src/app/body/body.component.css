@@ -1,0 +1,10 @@
+div {
+    color: black;
+    font-size: 180%;
+    font-weight: bold;
+}
+
+body{
+    padding-left: 10px;
+    padding-top: 10px;
+}
